@@ -39,7 +39,7 @@ Al ejecutar:
 
 Los resultados se muestran tanto en la consola como en el inspector.
 
-### Prueba
+### Ejecución
 
 ![Ejercicio 2](Pract1/media/ej2.gif)
 
@@ -51,7 +51,7 @@ Se ha creado el script `Ejercicio3Posicion.cs` y se asocia a la esfera anterior.
 
 ![Ejercicio 3](Pract1/media/ej3ejec.png)
 
-### Prueba
+### Ejecución
 
 ![Ejercicio 3](Pract1/media/ej3.gif)
 
@@ -67,7 +67,7 @@ Finalmente se calcula y muestra en consola la distancia entre el cubo y el cilin
 
 ![Ejercicio 4](Pract1/media/ej4ejec.png)
 
-### Prueba
+### Ejecución
 
 ![Ejercicio 4](Pract1/media/ej4.gif)
 
